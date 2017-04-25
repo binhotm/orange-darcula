@@ -1,0 +1,16 @@
+{
+  "name": "orange-darcula",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "theme": "ui",
+  "description": "Based on Darcula Theme From Netbeans plataform as my wich",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/orange-darcula",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
